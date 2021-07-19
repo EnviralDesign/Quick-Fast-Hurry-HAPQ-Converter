@@ -1,5 +1,8 @@
 # Quick Fast Hurry HAPQ Converter
- ~300-1000+ fps HAPQ converter built in TouchDesigner
+~300-1000+ fps HAPQ converter built in TouchDesigner
+
+![thumbnail](https://user-images.githubusercontent.com/10091486/126197419-5b4e7ea1-63ef-4d57-9ef8-9805281c6280.PNG)
+
  
   ***You must be in Perform Mode to get indiciated performance***
  
