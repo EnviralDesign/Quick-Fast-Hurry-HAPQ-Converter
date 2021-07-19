@@ -5,4 +5,4 @@
  
  Your performance of course will vary based on video card, video's resolution, and video codec.
 
-![image](https://user-images.githubusercontent.com/10091486/126083457-d3c97bde-4b11-4ae9-a7f0-ee3bc875163a.png)
+![image](https://user-images.githubusercontent.com/10091486/126179785-bfa16da3-2f3e-4116-9419-829fc559a1e0.png)
